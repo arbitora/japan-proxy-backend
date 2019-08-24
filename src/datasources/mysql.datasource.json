@@ -1,0 +1,10 @@
+{
+  "name": "mysql",
+  "connector": "mysql",
+  "url": "",
+  "host": "",
+  "port": 3306,
+  "user": "loopback-user",
+  "password": "loopback-user",
+  "database": "japan-export"
+}
